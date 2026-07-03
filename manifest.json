@@ -1,0 +1,17 @@
+{
+  "name": "دفتر العمال والأجور",
+  "short_name": "الدفتر",
+  "start_url": "https://gic75012-cmd.github.io/Sara/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E0631F",
+  "icons": [
+    {
+      "src": "https://gic75012-cmd.github.io/Sara/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
