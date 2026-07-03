@@ -7,11 +7,10 @@
   "theme_color": "#E0631F",
   "icons": [
     {
-      "src": "https://gic75012-cmd.github.io/Sara/icon.png",
+      "src": "https://placeholder.co/512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
   ]
 }
-
